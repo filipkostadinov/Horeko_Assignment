@@ -1,0 +1,16 @@
+C:\Users\Filip Kostadinov\source\repos\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.deps.json
+C:\Users\Filip Kostadinov\source\repos\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\Users\Filip Kostadinov\source\repos\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.pdb
+C:\Users\Filip Kostadinov\source\repos\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csprojAssemblyReference.cache
+C:\Users\Filip Kostadinov\source\repos\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfoInputs.cache
+C:\Users\Filip Kostadinov\source\repos\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfo.cs
+C:\Users\Filip Kostadinov\source\repos\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.dll
+C:\Users\Filip Kostadinov\source\repos\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.pdb
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.deps.json
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.pdb
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csprojAssemblyReference.cache
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfoInputs.cache
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfo.cs
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.dll
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.pdb

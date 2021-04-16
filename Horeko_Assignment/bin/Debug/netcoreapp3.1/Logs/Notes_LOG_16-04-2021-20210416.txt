@@ -1,0 +1,282 @@
+
+05:13:54 [Information] () Application started. Press Ctrl+C to shut down.
+
+05:13:54 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/api/dish  
+
+05:13:54 [Information] () Hosting environment: "Development"
+
+05:13:54 [Information] () Content root path: "C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\Horeko_Assignment"
+
+05:13:54 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+05:13:54 [Information] () Route matched with "{action = \"Get\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ViewModels.DishesViewModel]] Get(System.String, System.Nullable`1[System.DateTime])" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+05:13:55 [Information] () Executing ObjectResult, writing value of type '"System.Linq.Enumerable+SelectListIterator`2[[DataModels.DishDto, DataModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ViewModels.DishesViewModel, ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+
+05:13:55 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)" in 287.0998ms
+
+05:13:55 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+05:13:55 [Information] () Request finished in 393.4754ms 200 application/json; charset=utf-8
+
+05:18:15 [Information] () Application started. Press Ctrl+C to shut down.
+
+05:18:15 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/api/dish  
+
+05:18:15 [Information] () Hosting environment: "Development"
+
+05:18:15 [Information] () Content root path: "C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\Horeko_Assignment"
+
+05:18:15 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+05:18:15 [Information] () Route matched with "{action = \"Get\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ViewModels.DishesViewModel]] Get(System.String, System.Nullable`1[System.DateTime])" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+05:18:15 [Information] () Executing ObjectResult, writing value of type '"System.Linq.Enumerable+SelectListIterator`2[[DataModels.DishDto, DataModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ViewModels.DishesViewModel, ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+
+05:18:15 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)" in 310.3655ms
+
+05:18:15 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+05:18:15 [Information] () Request finished in 455.8921ms 200 application/json; charset=utf-8
+
+05:18:19 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/swagger/index.html  
+
+05:18:19 [Information] () Request finished in 43.7377ms 200 text/html;charset=utf-8
+
+05:18:21 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/swagger/v1/swagger.json  
+
+05:18:21 [Information] () Request finished in 115.3088ms 200 application/json;charset=utf-8
+
+05:18:26 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/api/Dish  
+
+05:18:26 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+05:18:26 [Information] () Route matched with "{action = \"Get\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ViewModels.DishesViewModel]] Get(System.String, System.Nullable`1[System.DateTime])" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+05:18:26 [Information] () Executing ObjectResult, writing value of type '"System.Linq.Enumerable+SelectListIterator`2[[DataModels.DishDto, DataModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ViewModels.DishesViewModel, ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+
+05:18:26 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)" in 11.0766ms
+
+05:18:26 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+05:18:26 [Information] () Request finished in 14.4893ms 200 application/json; charset=utf-8
+
+05:48:48 [Information] () Application started. Press Ctrl+C to shut down.
+
+05:48:48 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/api/dish  
+
+05:48:48 [Information] () Hosting environment: "Development"
+
+05:48:48 [Information] () Content root path: "C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\Horeko_Assignment"
+
+05:48:48 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+05:48:48 [Information] () Route matched with "{action = \"Get\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ViewModels.DishesViewModel]] Get(System.String, System.Nullable`1[System.DateTime])" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+05:48:48 [Information] () Executing ObjectResult, writing value of type '"System.Linq.Enumerable+SelectListIterator`2[[DataModels.DishDto, DataModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ViewModels.DishesViewModel, ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+
+05:48:48 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)" in 210.6458ms
+
+05:48:48 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+05:48:48 [Information] () Request finished in 311.6852ms 200 application/json; charset=utf-8
+
+05:48:57 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/swagger/index.html  
+
+05:48:57 [Information] () Request finished in 29.8062ms 200 text/html;charset=utf-8
+
+05:48:57 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/swagger/v1/swagger.json  
+
+05:48:57 [Information] () Request finished in 69.7409ms 200 application/json;charset=utf-8
+
+05:49:00 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/api/Ingredients/usage  
+
+05:49:00 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.IngredientsController.Get (Horeko_AssignmentApi)"'
+
+05:49:00 [Information] () Route matched with "{action = \"Get\", controller = \"Ingredients\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ViewModels.IngredientsUsageViewModel]] Get()" on controller "Horeko_AssignmentApi.Controllers.IngredientsController" ("Horeko_AssignmentApi").
+
+05:49:00 [Information] () Executing ObjectResult, writing value of type '"System.Linq.Enumerable+SelectListIterator`2[[DataModels.IngredientDto, DataModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ViewModels.IngredientsUsageViewModel, ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+
+05:49:00 [Information] () Executed action "Horeko_AssignmentApi.Controllers.IngredientsController.Get (Horeko_AssignmentApi)" in 16.759ms
+
+05:49:00 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.IngredientsController.Get (Horeko_AssignmentApi)"'
+
+05:49:00 [Information] () Request finished in 22.3688ms 200 application/json; charset=utf-8
+
+06:07:57 [Information] () Application started. Press Ctrl+C to shut down.
+
+06:07:57 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/api/dish  
+
+06:07:57 [Information] () Hosting environment: "Development"
+
+06:07:57 [Information] () Content root path: "C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\Horeko_Assignment"
+
+06:07:57 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+06:07:57 [Information] () Route matched with "{action = \"Get\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ViewModels.DishesViewModel]] Get(System.String, System.Nullable`1[System.DateTime])" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+06:07:57 [Information] () Executing ObjectResult, writing value of type '"System.Linq.Enumerable+SelectListIterator`2[[DataModels.DishDto, DataModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ViewModels.DishesViewModel, ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+
+06:07:57 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)" in 207.1051ms
+
+06:07:57 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+06:07:57 [Information] () Request finished in 323.8472ms 200 application/json; charset=utf-8
+
+06:08:17 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/swagger/index.html  
+
+06:08:17 [Information] () Request finished in 34.2709ms 200 text/html;charset=utf-8
+
+06:08:18 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/swagger/v1/swagger.json  
+
+06:08:18 [Information] () Request finished in 81.7839ms 200 application/json;charset=utf-8
+
+06:08:39 [Information] () Request starting HTTP/2.0 POST https://localhost:44370/api/Dish application/json 93
+
+06:08:39 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Post (Horeko_AssignmentApi)"'
+
+06:08:39 [Information] () Route matched with "{action = \"Post\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult Post(ViewModels.CreateDishViewModel)" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+06:08:58 [Information] () Dish is created
+
+06:08:58 [Information] () Executing ObjectResult, writing value of type '"System.Int32"'.
+
+06:08:58 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Post (Horeko_AssignmentApi)" in 19545.3031ms
+
+06:08:58 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Post (Horeko_AssignmentApi)"'
+
+06:08:58 [Information] () Request finished in 19568.7665ms 200 application/json; charset=utf-8
+
+06:09:07 [Information] () Request starting HTTP/2.0 POST https://localhost:44370/api/Dish application/json 89
+
+06:09:07 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Post (Horeko_AssignmentApi)"'
+
+06:09:07 [Information] () Route matched with "{action = \"Post\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult Post(ViewModels.CreateDishViewModel)" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+06:09:07 [Error] () Dish with a name: Test already exists.
+
+06:09:07 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+06:09:07 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Post (Horeko_AssignmentApi)" in 33.9945ms
+
+06:09:07 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Post (Horeko_AssignmentApi)"'
+
+06:09:07 [Information] () Request finished in 36.6597ms 409 text/plain; charset=utf-8
+
+06:09:21 [Information] () Request starting HTTP/2.0 POST https://localhost:44370/api/Dish application/json 92
+
+06:09:21 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Post (Horeko_AssignmentApi)"'
+
+06:09:21 [Information] () Route matched with "{action = \"Post\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult Post(ViewModels.CreateDishViewModel)" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+06:10:06 [Information] () Dish is created
+
+06:10:06 [Information] () Executing ObjectResult, writing value of type '"System.Int32"'.
+
+06:10:06 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Post (Horeko_AssignmentApi)" in 45190.7421ms
+
+06:10:06 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Post (Horeko_AssignmentApi)"'
+
+06:10:06 [Information] () Request finished in 45198.3219ms 200 application/json; charset=utf-8
+
+07:09:39 [Information] () Application started. Press Ctrl+C to shut down.
+
+07:09:39 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/api/dish  
+
+07:09:39 [Information] () Hosting environment: "Development"
+
+07:09:39 [Information] () Content root path: "C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\Horeko_Assignment"
+
+07:09:39 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+07:09:39 [Information] () Route matched with "{action = \"Get\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ViewModels.DishesViewModel]] Get(System.String, System.Nullable`1[System.DateTime])" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+07:09:39 [Information] () Executing ObjectResult, writing value of type '"System.Linq.Enumerable+SelectListIterator`2[[DataModels.DishDto, DataModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ViewModels.DishesViewModel, ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+
+07:09:39 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)" in 237.458ms
+
+07:09:39 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+07:09:39 [Information] () Request finished in 361.0666ms 200 application/json; charset=utf-8
+
+07:10:48 [Information] () Application started. Press Ctrl+C to shut down.
+
+07:10:48 [Information] () Request starting HTTP/2.0 GET https://localhost:44370/api/dish  
+
+07:10:48 [Information] () Hosting environment: "Development"
+
+07:10:48 [Information] () Content root path: "C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\Horeko_Assignment"
+
+07:10:48 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+07:10:48 [Information] () Route matched with "{action = \"Get\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ViewModels.DishesViewModel]] Get(System.String, System.Nullable`1[System.DateTime])" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+07:10:48 [Information] () Executing ObjectResult, writing value of type '"System.Linq.Enumerable+SelectListIterator`2[[DataModels.DishDto, DataModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ViewModels.DishesViewModel, ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+
+07:10:48 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)" in 220.2267ms
+
+07:10:48 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+07:10:48 [Information] () Request finished in 330.1304ms 200 application/json; charset=utf-8
+
+08:59:43 [Information] () Application started. Press Ctrl+C to shut down.
+
+08:59:43 [Information] () Request starting HTTP/1.1 GET http://localhost:54152/api/dish  
+
+08:59:43 [Information] () Hosting environment: "Development"
+
+08:59:43 [Information] () Content root path: "C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\Horeko_Assignment"
+
+08:59:43 [Warning] () Failed to determine the https port for redirect.
+
+08:59:44 [Information] () Executing endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+08:59:44 [Information] () Route matched with "{action = \"Get\", controller = \"Dish\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[ViewModels.DishesViewModel]] Get(System.String, System.Nullable`1[System.DateTime])" on controller "Horeko_AssignmentApi.Controllers.DishController" ("Horeko_AssignmentApi").
+
+08:59:44 [Information] () Executing ObjectResult, writing value of type '"System.Linq.Enumerable+SelectListIterator`2[[DataModels.DishDto, DataModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ViewModels.DishesViewModel, ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+
+08:59:44 [Information] () Executed action "Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)" in 344.8012ms
+
+08:59:44 [Information] () Executed endpoint '"Horeko_AssignmentApi.Controllers.DishController.Get (Horeko_AssignmentApi)"'
+
+08:59:44 [Information] () Request finished in 525.0107ms 200 application/json; charset=utf-8
+
+08:59:44 [Information] () Request starting HTTP/1.1 GET http://localhost:54152/favicon.ico  
+
+08:59:44 [Information] () Request finished in 2.8743ms 404 
+
+08:59:49 [Information] () Request starting HTTP/1.1 GET http://localhost:54152/swagger  
+
+08:59:49 [Information] () Request finished in 3.1866ms 301 
+
+08:59:49 [Information] () Request starting HTTP/1.1 GET http://localhost:54152/swagger/index.html  
+
+08:59:49 [Information] () Request finished in 24.1197ms 200 text/html;charset=utf-8
+
+08:59:49 [Information] () Request starting HTTP/1.1 GET http://localhost:54152/swagger/swagger-ui.css  
+
+08:59:49 [Information] () Request starting HTTP/1.1 GET http://localhost:54152/swagger/swagger-ui-bundle.js  
+
+08:59:49 [Information] () Request starting HTTP/1.1 GET http://localhost:54152/swagger/swagger-ui-standalone-preset.js  
+
+08:59:49 [Information] () Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+
+08:59:49 [Information] () Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+
+08:59:49 [Information] () Request finished in 53.6354ms 200 application/javascript
+
+08:59:49 [Information] () Request finished in 55.0182ms 200 text/css
+
+08:59:49 [Information] () Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+
+08:59:49 [Information] () Request finished in 70.7911ms 200 application/javascript
+
+08:59:49 [Information] () Request starting HTTP/1.1 GET http://localhost:54152/swagger/v1/swagger.json  
+
+08:59:49 [Information] () Request starting HTTP/1.1 GET http://localhost:54152/swagger/favicon-32x32.png  
+
+08:59:49 [Information] () Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"'
+
+08:59:49 [Information] () Request finished in 1.0161ms 200 image/png
+
+08:59:49 [Information] () Request finished in 80.6068ms 200 application/json;charset=utf-8

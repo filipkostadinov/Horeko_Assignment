@@ -1,0 +1,16 @@
+C:\Users\Filip Kostadinov\source\repos\DataModels\bin\Debug\netcoreapp3.1\DataModels.deps.json
+C:\Users\Filip Kostadinov\source\repos\DataModels\bin\Debug\netcoreapp3.1\DataModels.dll
+C:\Users\Filip Kostadinov\source\repos\DataModels\bin\Debug\netcoreapp3.1\DataModels.pdb
+C:\Users\Filip Kostadinov\source\repos\DataModels\obj\Debug\netcoreapp3.1\DataModels.csprojAssemblyReference.cache
+C:\Users\Filip Kostadinov\source\repos\DataModels\obj\Debug\netcoreapp3.1\DataModels.AssemblyInfoInputs.cache
+C:\Users\Filip Kostadinov\source\repos\DataModels\obj\Debug\netcoreapp3.1\DataModels.AssemblyInfo.cs
+C:\Users\Filip Kostadinov\source\repos\DataModels\obj\Debug\netcoreapp3.1\DataModels.dll
+C:\Users\Filip Kostadinov\source\repos\DataModels\obj\Debug\netcoreapp3.1\DataModels.pdb
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\DataModels\bin\Debug\netcoreapp3.1\DataModels.deps.json
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\DataModels\bin\Debug\netcoreapp3.1\DataModels.dll
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\DataModels\bin\Debug\netcoreapp3.1\DataModels.pdb
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\DataModels\obj\Debug\netcoreapp3.1\DataModels.csprojAssemblyReference.cache
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\DataModels\obj\Debug\netcoreapp3.1\DataModels.AssemblyInfoInputs.cache
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\DataModels\obj\Debug\netcoreapp3.1\DataModels.AssemblyInfo.cs
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\DataModels\obj\Debug\netcoreapp3.1\DataModels.dll
+C:\Users\Filip Kostadinov\Desktop\Horeko_Assignment\DataModels\obj\Debug\netcoreapp3.1\DataModels.pdb
