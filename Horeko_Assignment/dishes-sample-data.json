@@ -1,1 +1,517 @@
-[{"Id":1,"Name":"Tomato soup","ParentId":20,"UpdatedOn":"2021-03-08T12:19:06.67","Ingredients":[{"IngredientId":8,"Amount":250.0},{"IngredientId":9,"Amount":20.0},{"IngredientId":10,"Amount":4.25}]},{"Id":3,"Name":"Ham and cheese","ParentId":18,"UpdatedOn":"2021-05-08T10:16:05","Ingredients":[{"IngredientId":20,"Amount":250.0},{"IngredientId":8,"Amount":25.0},{"IngredientId":3,"Amount":3.0},{"IngredientId":1,"Amount":3.0},{"IngredientId":10,"Amount":1.0},{"IngredientId":15,"Amount":50.0}]},{"Id":6,"Name":"Crab salad","ParentId":18,"UpdatedOn":"2021-02-28T19:19:05.55","Ingredients":[{"IngredientId":15,"Amount":150.0},{"IngredientId":16,"Amount":1.0},{"IngredientId":8,"Amount":250.0}]},{"Id":7,"Name":"Chicken satay","ParentId":21,"UpdatedOn":"2021-03-28T12:10:55.67","Ingredients":[{"IngredientId":10,"Amount":220.0},{"IngredientId":1,"Amount":25.0},{"IngredientId":3,"Amount":10.0},{"IngredientId":11,"Amount":5.0},{"IngredientId":5,"Amount":10.0},{"IngredientId":8,"Amount":20.0},{"IngredientId":20,"Amount":150.0},{"IngredientId":9,"Amount":1.0}]},{"Id":8,"Name":"American Burger","ParentId":21,"UpdatedOn":"2021-03-09T08:05:35.97","Ingredients":[{"IngredientId":10,"Amount":300.0},{"IngredientId":1,"Amount":5.0},{"IngredientId":2,"Amount":100.0}]},{"Id":9,"Name":"Smoked salmon pasta","ParentId":22,"UpdatedOn":"2021-03-02T21:10:55.67","Ingredients":[{"IngredientId":15,"Amount":100.0},{"IngredientId":20,"Amount":150.0},{"IngredientId":18,"Amount":10.0},{"IngredientId":1,"Amount":250.0},{"IngredientId":2,"Amount":5.0},{"IngredientId":4,"Amount":2.0},{"IngredientId":5,"Amount":25.0},{"IngredientId":8,"Amount":20.0}]},{"Id":10,"Name":"Risotto with goats cheese and smoked salmon","ParentId":22,"UpdatedOn":"2021-03-25T13:25:20","Ingredients":[{"IngredientId":25,"Amount":100.0},{"IngredientId":20,"Amount":250.0},{"IngredientId":5,"Amount":5.0},{"IngredientId":6,"Amount":50.0},{"IngredientId":4,"Amount":25.0},{"IngredientId":3,"Amount":75.0},{"IngredientId":1,"Amount":200.0}]},{"Id":11,"Name":"Roasted vegetables with feta cheese","ParentId":23,"UpdatedOn":"2021-03-15T15:35:20","Ingredients":[{"IngredientId":20,"Amount":300.0}]},{"Id":12,"Name":"Chicken and pesto pasta salad","ParentId":25,"UpdatedOn":"0001-01-01T00:00:00","Ingredients":[{"IngredientId":2,"Amount":100.0},{"IngredientId":5,"Amount":100.0},{"IngredientId":7,"Amount":10.0},{"IngredientId":9,"Amount":10.0},{"IngredientId":11,"Amount":100.0},{"IngredientId":20,"Amount":20.0},{"IngredientId":25,"Amount":10.0},{"IngredientId":30,"Amount":25.0},{"IngredientId":1,"Amount":20.0},{"IngredientId":12,"Amount":0.5}]},{"Id":13,"Name":"Roasted vegetables","ParentId":12,"UpdatedOn":"2021-03-25T11:28:20","Ingredients":[{"IngredientId":5,"Amount":10.0},{"IngredientId":12,"Amount":400.0},{"IngredientId":20,"Amount":300.0},{"IngredientId":35,"Amount":350.0}]},{"Id":14,"Name":"Tuna","ParentId":null,"UpdatedOn":"2021-03-12T11:33:10","Ingredients":[{"IngredientId":1,"Amount":800.0},{"IngredientId":5,"Amount":100.0},{"IngredientId":10,"Amount":20.0},{"IngredientId":12,"Amount":0.5},{"IngredientId":3,"Amount":20.0},{"IngredientId":15,"Amount":10.0}]},{"Id":15,"Name":"Beef stew","ParentId":11,"UpdatedOn":"2021-03-01T10:28:20","Ingredients":[{"IngredientId":20,"Amount":300.0},{"IngredientId":35,"Amount":50.0},{"IngredientId":41,"Amount":100.0},{"IngredientId":2,"Amount":200.0},{"IngredientId":1,"Amount":50.0},{"IngredientId":23,"Amount":15.0},{"IngredientId":25,"Amount":2.0},{"IngredientId":100,"Amount":2.0},{"IngredientId":6,"Amount":200.0}]},{"Id":16,"Name":"Chocolate lava cake","ParentId":null,"UpdatedOn":"2021-03-26T07:38:50","Ingredients":[{"IngredientId":18,"Amount":1.0},{"IngredientId":20,"Amount":10.0},{"IngredientId":5,"Amount":40.0}]},{"Id":17,"Name":"Tiramisu","ParentId":16,"UpdatedOn":"2021-03-15T10:28:20","Ingredients":[{"IngredientId":19,"Amount":300.0}]},{"Id":18,"Name":"Pavlova","ParentId":16,"UpdatedOn":"2021-03-27T11:12:20","Ingredients":[{"IngredientId":1,"Amount":10.0},{"IngredientId":2,"Amount":2.0},{"IngredientId":5,"Amount":25.0},{"IngredientId":7,"Amount":150.0},{"IngredientId":9,"Amount":5.0},{"IngredientId":11,"Amount":100.0}]},{"Id":19,"Name":"Potato salad","ParentId":13,"UpdatedOn":"2021-01-25T11:28:20","Ingredients":[{"IngredientId":1,"Amount":100.0},{"IngredientId":5,"Amount":15.0},{"IngredientId":10,"Amount":15.0},{"IngredientId":12,"Amount":15.0},{"IngredientId":18,"Amount":15.0}]},{"Id":20,"Name":"Salmon salad","ParentId":14,"UpdatedOn":"2021-03-22T11:30:20","Ingredients":[{"IngredientId":21,"Amount":100.0},{"IngredientId":20,"Amount":3.0},{"IngredientId":18,"Amount":40.0},{"IngredientId":22,"Amount":1.0}]},{"Id":21,"Name":"Fancy meal","ParentId":null,"UpdatedOn":"2021-03-13T19:28:20","Ingredients":[{"IngredientId":1,"Amount":100.0},{"IngredientId":3,"Amount":3.0}]},{"Id":22,"Name":"Summer meal","ParentId":null,"UpdatedOn":"2021-03-28T11:28:20","Ingredients":[{"IngredientId":10,"Amount":125.0},{"IngredientId":13,"Amount":13.0}]},{"Id":23,"Name":"Dish123","ParentId":null,"UpdatedOn":"2021-04-15T23:42:38.843746Z","Ingredients":[{"IngredientId":1,"Amount":2.0}]},{"Id":24,"Name":"Test","ParentId":null,"UpdatedOn":"2021-04-15T23:43:00.1402228Z","Ingredients":[{"IngredientId":2,"Amount":2.0}]},{"Id":39,"Name":"Test 123","ParentId":null,"UpdatedOn":"2021-04-16T04:08:46.2754978Z","Ingredients":[{"IngredientId":1,"Amount":2.0}]},{"Id":38,"Name":"Test 41","ParentId":null,"UpdatedOn":"2021-04-16T04:10:06.4795723Z","Ingredients":[{"IngredientId":1,"Amount":2.0}]}]
+[
+  {
+    "id": 1,
+    "name": "Tomato soup",
+    "parentId": 20,
+    "updatedOn": "2021-03-08T12:19:06.67",
+    "ingredients": [
+      {
+        "ingredientId": 8,
+        "amount": 250.0
+      },
+      {
+        "ingredientId": 9,
+        "amount": 20.0
+      },
+      {
+        "ingredientId": 10,
+        "amount": 4.25
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ham and cheese",
+    "parentId": 18,
+    "updatedOn": "2021-05-08T10:16:05.00",
+    "ingredients": [
+      {
+        "ingredientId": 20,
+        "amount": 250.0
+      },
+      {
+        "ingredientId": 8,
+        "amount": 25.0
+      },
+      {
+        "ingredientId": 3,
+        "amount": 3.0
+      },
+      {
+        "ingredientId": 1,
+        "amount": 3.0
+      },
+      {
+        "ingredientId": 10,
+        "amount": 1.0
+      },
+      {
+        "ingredientId": 15,
+        "amount": 50.0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Crab salad",
+    "parentId": 18,
+    "updatedOn": "2021-2-28T19:19:05.55",
+    "ingredients": [
+      {
+        "ingredientId": 15,
+        "amount": 150.0
+      },
+      {
+        "ingredientId": 16,
+        "amount": 1.0
+      },
+      {
+        "ingredientId": 8,
+        "amount": 250.0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Chicken satay",
+    "parentId": 21,
+    "updatedOn": "2021-03-28T12:10:55.67",
+    "ingredients": [
+      {
+        "ingredientId": 10,
+        "amount": 220.0
+      },
+      {
+        "ingredientId": 1,
+        "amount": 25.0
+      },
+      {
+        "ingredientId": 3,
+        "amount": 10.0
+      },
+      {
+        "ingredientId": 11,
+        "amount": 5.0
+      },
+      {
+        "ingredientId": 5,
+        "amount": 10.0
+      },
+      {
+        "ingredientId": 8,
+        "amount": 20.0
+      },
+      {
+        "ingredientId": 20,
+        "amount": 150.0
+      },
+      {
+        "ingredientId": 9,
+        "amount": 1.0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "American Burger",
+    "parentId": 21,
+    "updatedOn": "2021-03-09T08:05:35.97",
+    "ingredients": [
+      {
+        "ingredientId": 10,
+        "amount": 300.0
+      },
+      {
+        "ingredientId": 1,
+        "amount": 5.0
+      },
+      {
+        "ingredientId": 2,
+        "amount": 100.0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Smoked salmon pasta",
+    "parentId": 22,
+    "updatedOn": "2021-03-02T21:10:55.67",
+    "ingredients": [
+      {
+        "ingredientId": 15,
+        "amount": 100.0
+      },
+      {
+        "ingredientId": 20,
+        "amount": 150.0
+      },
+      {
+        "ingredientId": 18,
+        "amount": 10.0
+      },
+      {
+        "ingredientId": 1,
+        "amount": 250.0
+      },
+      {
+        "ingredientId": 2,
+        "amount": 5.0
+      },
+      {
+        "ingredientId": 4,
+        "amount": 2.0
+      },
+      {
+        "ingredientId": 5,
+        "amount": 25.0
+      },
+      {
+        "ingredientId": 8,
+        "amount": 20.0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Risotto with goats cheese and smoked salmon",
+    "parentId": 22,
+    "updatedOn": "2021-03-25T13:25:20.00",
+    "ingredients": [
+      {
+        "ingredientId": 25,
+        "amount": 100.0
+      },
+      {
+        "ingredientId": 20,
+        "amount": 250.0
+      },
+      {
+        "ingredientId": 5,
+        "amount": 5.0
+      },
+      {
+        "ingredientId": 6,
+        "amount": 50.0
+      },
+      {
+        "ingredientId": 4,
+        "amount": 25.0
+      },
+      {
+        "ingredientId": 3,
+        "amount": 75.0
+      },
+      {
+        "ingredientId": 1,
+        "amount": 200.0
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Roasted vegetables with feta cheese",
+    "parentId": 23,
+    "updatedOn": "2021-03-15T15:35:20.00",
+    "ingredients": [
+      {
+        "ingredientId": 20,
+        "amount": 300.0
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Chicken and pesto pasta salad",
+    "parentId": 25,
+    "ingredients": [
+      {
+        "ingredientId": 2,
+        "amount": 100.0
+      },
+      {
+        "ingredientId": 5,
+        "amount": 100.0
+      },
+      {
+        "ingredientId": 7,
+        "amount": 10.0
+      },
+      {
+        "ingredientId": 9,
+        "amount": 10.0
+      },
+      {
+        "ingredientId": 11,
+        "amount": 100.0
+      },
+      {
+        "ingredientId": 20,
+        "amount": 20.0
+      },
+      {
+        "ingredientId": 25,
+        "amount": 10.0
+      },
+      {
+        "ingredientId": 30,
+        "amount": 25.0
+      },
+      {
+        "ingredientId": 1,
+        "amount": 20.0
+      },
+      {
+        "ingredientId": 12,
+        "amount": 0.5
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Roasted vegetables",
+    "parentId": 12,
+    "updatedOn": "2021-03-25T11:28:20.00",
+    "ingredients": [
+      {
+        "ingredientId": 5,
+        "amount": 10.0
+      },
+      {
+        "ingredientId": 12,
+        "amount": 400.0
+      },
+      {
+        "ingredientId": 20,
+        "amount": 300.0
+      },
+      {
+        "ingredientId": 35,
+        "amount": 350.0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Tuna",
+    "parentId": null,
+    "updatedOn": "2021-03-12T11:33:10.00",
+    "ingredients": [
+      {
+        "ingredientId": 1,
+        "amount": 800.0
+      },
+      {
+        "ingredientId": 5,
+        "amount": 100.0
+      },
+      {
+        "ingredientId": 10,
+        "amount": 20.0
+      },
+      {
+        "ingredientId": 12,
+        "amount": 0.5
+      },
+      {
+        "ingredientId": 3,
+        "amount": 20.0
+      },
+      {
+        "ingredientId": 15,
+        "amount": 10.0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Beef stew",
+    "parentId": 11,
+    "updatedOn": "2021-03-01T10:28:20.00",
+    "ingredients": [
+      {
+        "ingredientId": 20,
+        "amount": 300.0
+      },
+      {
+        "ingredientId": 35,
+        "amount": 50.0
+      },
+      {
+        "ingredientId": 41,
+        "amount": 100.0
+      },
+      {
+        "ingredientId": 2,
+        "amount": 200.0
+      },
+      {
+        "ingredientId": 1,
+        "amount": 50.0
+      },
+      {
+        "ingredientId": 23,
+        "amount": 15.0
+      },
+      {
+        "ingredientId": 25,
+        "amount": 2.0
+      },
+      {
+        "ingredientId": 100,
+        "amount": 2.0
+      },
+      {
+        "ingredientId": 6,
+        "amount": 200.0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Chocolate lava cake",
+    "parentId": null,
+    "updatedOn": "2021-03-26T07:38:50.00",
+    "ingredients": [
+      {
+        "ingredientId": 18,
+        "amount": 1.0
+      },
+      {
+        "ingredientId": 20,
+        "amount": 10.0
+      },
+      {
+        "ingredientId": 5,
+        "amount": 40.0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Tiramisu",
+    "parentId": 16,
+    "updatedOn": "2021-03-15T10:28:20.00",
+    "ingredients": [
+      {
+        "ingredientId": 19,
+        "amount": 300.0
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Pavlova",
+    "parentId": 16,
+    "updatedOn": "2021-03-27T11:12:20.00",
+    "ingredients": [
+      {
+        "ingredientId": 1,
+        "amount": 10.0
+      },
+      {
+        "ingredientId": 2,
+        "amount": 2.0
+      },
+      {
+        "ingredientId": 5,
+        "amount": 25.0
+      },
+      {
+        "ingredientId": 7,
+        "amount": 150.0
+      },
+      {
+        "ingredientId": 9,
+        "amount": 5.0
+      },
+      {
+        "ingredientId": 11,
+        "amount": 100.0
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Potato salad",
+    "parentId": 13,
+    "updatedOn": "2021-01-25T11:28:20.00",
+    "ingredients": [
+      {
+        "ingredientId": 1,
+        "amount": 100.0
+      },
+      {
+        "ingredientId": 5,
+        "amount": 15.0
+      },
+      {
+        "ingredientId": 10,
+        "amount": 15.0
+      },
+      {
+        "ingredientId": 12,
+        "amount": 15.0
+      },
+      {
+        "ingredientId": 18,
+        "amount": 15.0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Salmon salad",
+    "parentId": 14,
+    "updatedOn": "2021-03-22T11:30:20.00",
+    "ingredients": [
+      {
+        "ingredientId": 21,
+        "amount": 100.0
+      },
+      {
+        "ingredientId": 20,
+        "amount": 3.0
+      },
+      {
+        "ingredientId": 18,
+        "amount": 40.0
+      },
+      {
+        "ingredientId": 22,
+        "amount": 1.0
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Fancy meal",
+    "parentId": null,
+    "updatedOn": "2021-03-13T19:28:20.00",
+    "ingredients": [
+      {
+        "ingredientId": 1,
+        "amount": 100.0
+      },
+      {
+        "ingredientId": 3,
+        "amount": 3.0
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Summer meal",
+    "parentId": null,
+    "updatedOn": "2021-03-28T11:28:20.00",
+    "ingredients": [
+      {
+        "ingredientId": 10,
+        "amount": 125.0
+      },
+      {
+        "ingredientId": 13,
+        "amount": 13.0
+      }
+    ]
+  }
+]
